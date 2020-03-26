@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/rustwasm/create-wasm-app#readme",
   "dependencies": {
+    "faker": "^4.1.0",
     "wasm-fuzzy-match": "file:../pkg"
   },
   "devDependencies": {
